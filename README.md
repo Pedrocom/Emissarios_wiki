@@ -25,9 +25,11 @@ Se desejar testar o projeto no seu ambiente local:
    npm install
 Execute o servidor de desenvolvimento:
 
-Bash
+```Bash
 npx quartz build --serve
-O site estará disponível em http://localhost:8080.
+````
+O site estará disponível em 
+http://localhost:8080.
 
 📈 Desenvolvimento de Software (CS Context)
 
