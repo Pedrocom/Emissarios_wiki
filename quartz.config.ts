@@ -52,6 +52,7 @@ const config: QuartzConfig = {
         },
       },
     },
+  },
   plugins: {
     transformers: [
       Plugin.FrontMatter(),
@@ -89,8 +90,8 @@ const config: QuartzConfig = {
       Plugin.NotFoundPage(),
       // Comment out CustomOgImages to speed up build time
       Plugin.CustomOgImages(),
-    ],
-  },
-}
+],
+    },
+  }
 
 export default config
