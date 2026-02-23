@@ -51,6 +51,7 @@ const config: QuartzConfig = {
           textHighlight: "#b3aa0288",
         },
       },
+    },
   plugins: {
     transformers: [
       Plugin.FrontMatter(),
