@@ -37,7 +37,7 @@ const config: QuartzConfig = {
           secondary: "#38bdf8",  // Links: Azul Fluxo/Energia
           tertiary: "#fbbf24",   // Destaques: Ouro Antigo
           highlight: "rgba(56, 189, 248, 0.1)", // Seleção de texto
-        },,
+        },
         },
         darkMode: {
           light: "#161618",
