@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "8fed291483788722",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef7466826c79fe4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30e920fb6ec46071",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6f599f656534982a",
+    "type": "split",
+    "children": [
+      {
+        "id": "206d31c992fb680e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79bf61cff4545d25",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "82d19aaa547a483e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "475877c5569ab92c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a1e88c77bbdc464a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a6cba615c3dedd8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf9a3e687dca82ba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "6795611b712f820d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "a35f152f0b0c4c05",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "61319ccb9f00e799",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "4f0342b92f37fcf5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "30e920fb6ec46071",
+  "lastOpenFiles": [
+    "01_Mapa_do_mundo/08_Snezhanaya_região_e_cidade",
+    "01_Mapa_do_mundo/07_NodKrai_região_e_cidade",
+    "01_Mapa_do_mundo/06_Natlan_região_e_cidade",
+    "01_Mapa_do_mundo/05_Inazuma_região_e_cidade",
+    "01_Mapa_do_mundo/04_Mondstadt_região_e_cidade",
+    "01_Mapa_do_mundo/03_Fontaine_região_e_cidade",
+    "01_Mapa_do_mundo/02_Liyue_região_e_cidade",
+    "01_Mapa_do_mundo/01_Sumeru_região_e_cidade",
+    "01_Mapa_do_mundo/00_Kaen'riah_deserto_e_ruinas",
+    "01_Mapa_do_mundo",
+    "00_Regras_do_sistema/07_regras_Itens_e_armamento",
+    "Welcome.md"
+  ]
+}
