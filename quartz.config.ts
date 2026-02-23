@@ -28,16 +28,16 @@ const config: QuartzConfig = {
         code: "IBM Plex Mono",
       },
       colors: {
-        lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+     darkMode: {
+          light: "#0b1215",      // Fundo: Azul Abissal Profundo
+          lightgray: "#1d2a30",  // Bordas e Cards: Cinza Metálico
+          gray: "#5e6f75",       // Texto Secundário: Cinza Estelar
+          darkgray: "#d1d5db",   // Texto Principal: Prata
+          dark: "#facc15",       // Títulos e Headers: Dourado (Khaenri'ah)
+          secondary: "#38bdf8",  // Links: Azul Fluxo/Energia
+          tertiary: "#fbbf24",   // Destaques: Ouro Antigo
+          highlight: "rgba(56, 189, 248, 0.1)", // Seleção de texto
+        },,
         },
         darkMode: {
           light: "#161618",
