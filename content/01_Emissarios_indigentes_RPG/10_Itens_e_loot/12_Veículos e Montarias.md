@@ -1,6 +1,4 @@
 
----
-
 # 🚜 Catálogo de Transporte: Teyvat Pós-Cataclismo
 
 Este log consolida as opções de mobilidade, divididas por categoria de custo, eficiência logística e impacto tático.
