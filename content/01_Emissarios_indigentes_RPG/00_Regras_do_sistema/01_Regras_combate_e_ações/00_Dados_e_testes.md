@@ -57,7 +57,7 @@ $$\text{Dano} = \text{Valor Fixo Alto (ex: 2d8, 1d12)}$$
 
 ---
 
-### 🎲 00_Dados_e_testes (Mecânicas Avançadas)
+### 🎲 (Mecânicas Avançadas)
 
 Nesta seção, definimos como o sistema trata os picos de performance (Críticos) e as falhas críticas de hardware/software (Glitches).
 
